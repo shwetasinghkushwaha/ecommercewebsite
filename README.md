@@ -1,6 +1,6 @@
 # E-Commerce Project
 
-A production-ready, full-stack MERN e-commerce application with **JWT auth**, **admin panel**, **wishlist**, **reviews & ratings**, **dark mode**, **pagination**, and **demo checkout**. Designed for B.Tech final-year viva and submission.
+A production-ready, full-stack MERN e-commerce application with **JWT auth**, **admin panel**, **wishlist**, **reviews & ratings**, **dark mode**, **pagination**, and **demo checkout**.
 
 > ⚠️ Demo only — no real payment gateway. No deployment instructions included.
 
@@ -197,4 +197,3 @@ password: admin123
 
 ---
 
-Made for B.Tech final year submission ✨
