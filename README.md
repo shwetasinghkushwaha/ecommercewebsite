@@ -1,4 +1,4 @@
-# 🛒 MERN Shop Pro — B.Tech Final Year E-Commerce Project
+# E-Commerce Project
 
 A production-ready, full-stack MERN e-commerce application with **JWT auth**, **admin panel**, **wishlist**, **reviews & ratings**, **dark mode**, **pagination**, and **demo checkout**. Designed for B.Tech final-year viva and submission.
 
